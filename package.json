@@ -4,6 +4,10 @@
   "description": "A simple bot",
   "main": "bot.js",
   "dependencies": {
+    "apiai": "^3.0.3",
+    "https": "^1.0.0",
+    "node-telegram-bot-api": "^0.24.0",
+    "node-uuid": "^1.4.7",
     "telegraf": "^3.6.1"
   },
   "devDependencies": {},
